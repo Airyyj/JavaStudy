@@ -61,7 +61,7 @@ public class ArrayDemo {
 			System.out.println("luckyNumber["+i+"]="+luckyNumber[i]);		
 		}
 		
-		
+		System.out.println("测试数据");
 		
 	}
 	
